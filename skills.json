@@ -8,10 +8,6 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Azure Cloud",
-        "icon": "./assets/images/logos/ventanas.png"
-    },
-    {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
