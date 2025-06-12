@@ -12,8 +12,9 @@
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
     },
     {
-        "name": "Azure SC-300",
-        "icon": "https://icons8.com/icon/108792/windows-10"
+        "name": "Azure Cloud",
+        "icon": "./assets/images/logos/ventanas.png",
+        "style": "max-height: 40px; width: auto;"
     },
     {
         "name": "HTML5",
