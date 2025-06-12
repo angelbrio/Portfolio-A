@@ -16,8 +16,8 @@
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Azure Cloud",
+        "icon": "./assets/images/logos/ventanas.png"
     },
     {
         "name": "Android",
@@ -118,5 +118,5 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    }
 ]

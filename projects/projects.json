@@ -49,11 +49,12 @@
       "code": "https://github.com/angelbrio"
     }
   },
-  {
+
+{
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "port",
-    "category": "basicweb",
+    "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
       "code": "https://github.com/angelbrio"
