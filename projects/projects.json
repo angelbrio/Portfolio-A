@@ -15,8 +15,8 @@
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
+      "view": "https://angelbrio.github.io/Portfolio-A/projects/generator.html",
+      "code": "https://github.com/angelbrio/GeneralPassword"
     }
   },
   {
@@ -25,8 +25,8 @@
     "image": "resumegen",
     "category": "mern",
     "links": {
-      "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
+      "view": "https://angelbrio.github.io/Portfolio-A/projects/prubea.html",
+      "code": "https://github.com/angelbrio/PasswordGeneratorAndroid"
     }
   },
   {
@@ -46,7 +46,7 @@
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
+      "code": "https://github.com/angelbrio/NetCongestionPredictorAI"
     }
   },
 
