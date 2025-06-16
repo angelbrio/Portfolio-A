@@ -31,7 +31,7 @@
   },
   {
     "name": "Real-Time Service Monitor",
-    "desc": "Real-time Service Quality Monitor is a dashboard that tracks and visualizes key metrics latency, cache hit rate, errors, providing real-time insights distributed service performance.",
+    "desc": "Real-time Service Quality Monitor is a dashboard that tracks and visualizes key metrics providing real-time insights distributed service performance.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
