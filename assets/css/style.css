@@ -1402,5 +1402,10 @@ form .button-area {
   }
 }
 
+/* Ocultar el enlace azul encima del badge de LinkedIn */
+.badge-base__link {
+  display: none !important;
+}
+
 
 /* scroll top ends */
