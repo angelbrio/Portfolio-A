@@ -1222,4 +1222,30 @@ form .button-area {
 #scroll-top.active {
   top: calc(100% - 12rem);
 }
+
+/* === Layout inferior del About: caja de info + badge LinkedIn === */
+.about .about-bottom-row {
+  display: grid;
+  grid-template-columns: 1fr 340px; /* izquierda | derecha (badge) */
+  gap: 1.25rem;
+  align-items: start;
+  margin-top: 1rem;
+}
+
+.about .about-bottom-row .right {
+  align-self: start;
+}
+
+.badge-base.LI-profile-badge {
+  width: 100%; /* asegura que el badge se ajuste al contenedor */
+}
+
+/* Responsive: apilar en móvil */
+@media (max-width: 900px) {
+  .about .about-bottom-row {
+    grid-template-columns: 1fr;
+  }
+}
+
+
 /* scroll top ends */
