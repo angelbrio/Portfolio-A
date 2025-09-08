@@ -1366,4 +1366,41 @@ form .button-area {
   }
 }
 
+/* Espaciado entre Resume (izquierda) y badge de LinkedIn (derecha) */
+.about .about-bottom-row {
+  display: grid;
+  grid-template-columns: 1fr auto; /* izquierda flexible | derecha ajustada */
+  column-gap: 28px;                /* <- espacio horizontal entre ambos */
+  align-items: start;
+  margin-top: 8px;
+}
+
+/* Asegura que el botón no quede pegado a la caja de info */
+.about .about-bottom-row .left .resumebtn {
+  margin-top: 12px;
+}
+
+/* Ancho del badge y separación fina adicional si quieres un pelín más */
+.about .about-bottom-row .right .LI-profile-badge,
+.badge-base.LI-profile-badge {
+  width: 320px;      /* ancho visual del badge */
+  max-width: 100%;
+}
+.about .about-bottom-row .right {
+  margin-left: 4px;  /* micro-espacio extra (opcional) */
+}
+
+/* En móvil se apila todo como ya lo tenías */
+@media (max-width: 900px) {
+  .about .about-bottom-row {
+    grid-template-columns: 1fr;
+    column-gap: 0;
+  }
+  .about .about-bottom-row .right {
+    margin-left: 0;
+    margin-top: 10px; /* pequeño aire cuando se apile debajo */
+  }
+}
+
+
 /* scroll top ends */

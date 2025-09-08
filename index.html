@@ -93,31 +93,28 @@
 
   <!-- about section starts -->
   <section class="about" id="about">
-  <h2 class="heading"><i class="fas fa-user-alt"></i> About <span>Me</span></h2>
+    <h2 class="heading"><i class="fas fa-user-alt"></i> About <span>Me</span></h2>
 
-  <div class="about-card">
-    <div class="about-grid">
-      <!-- Columna izquierda: foto -->
-      <div class="about-photo">
-        <img draggable="false" class="tilt" src="./assets/images/profile2.jpg" alt="Foto de perfil de Angel">
+    <div class="row">
+
+      <div class="image">
+        <img draggable="false" class="tilt" src="./assets/images/profile2.jpg" alt="">
       </div>
-
-      <!-- Columna derecha: contenido -->
-      <div class="about-content">
+      <div class="content">
         <h3>I'm Angel</h3>
         <span class="tag">Full Stack Developer</span>
 
-        <p>
-          I am a Software Engineer based in Madrid, España. I will as an Engineer from UPM in 2025.
+        <p>I am a Software Engineer based in Madrid, España.
+          I will as an Engineer from UPM in 2025.
           I´m passionate about improving my cloud skills and developing applications.
           Beyond programming, I´m also cibersecurity, cloud computing and anything in tech that inspires me.
           I´m constantly working on personal projects to grow and improve my abilities.
-          I love building anything that breaks away from monotony and challenges creativity.
-        </p>
+          I love building anything that breaks away from monotony and challenges creativity. </p>
 
-        <!-- Fila inferior bien estructurada: info + CV (izq) | badge (der) -->
-        <div class="about-actions">
-          <div class="about-info">
+        <!-- === BLOQUE INFERIOR DEL ABOUT: información + botón (izquierda) y badge LinkedIn (derecha) === -->
+        <div class="about-bottom-row">
+          <!-- Columna izquierda: tu info + botón Resume -->
+          <div class="left">
             <div class="box-container">
               <div class="box">
                 <p><span> email : </span> briones.angel.munoz@gmail.com</p>
@@ -126,15 +123,15 @@
             </div>
 
             <div class="resumebtn">
-              <a href="https://drive.google.com/file/d/1PTHov6HIsq17Xm4aKt18Ieksq46X3jYy/view?usp=sharing"
-                 target="_blank" class="btn">
-                <span>Resume</span>
+              <a href="https://drive.google.com/file/d/1PTHov6HIsq17Xm4aKt18Ieksq46X3jYy/view?usp=sharing" target="_blank"
+                class="btn"><span>Resume</span>
                 <i class="fas fa-chevron-right"></i>
               </a>
             </div>
           </div>
 
-          <aside class="about-badge">
+          <!-- Columna derecha: badge de LinkedIn -->
+          <aside class="right">
             <div class="badge-base LI-profile-badge"
                  data-locale="es_ES"
                  data-size="medium"
@@ -149,11 +146,11 @@
             </div>
           </aside>
         </div>
+        <!-- === FIN BLOQUE INFERIOR DEL ABOUT === -->
+
       </div>
     </div>
-  </div>
-</section>
-
+  </section>
   <!-- about section ends -->
 
   <!-- skills section starts -->
