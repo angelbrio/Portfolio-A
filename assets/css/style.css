@@ -1407,5 +1407,18 @@ form .button-area {
   display: none !important;
 }
 
+.about-bottom-row {
+  display: flex;
+  align-items: center; /* centra ambos verticalmente */
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.about-bottom-row .left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* centra el contenido de la izquierda */
+  height: 100%; /* para ocupar la misma altura que el badge */
+}
 
 /* scroll top ends */
