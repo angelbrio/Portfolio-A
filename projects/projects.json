@@ -40,17 +40,6 @@
     }
   },
   {
-    "name": "Network Congestion Predictor",
-    "desc": "A small AI model designed to predict network congestion based on simulated traffic data. Using machine learning.",
-    "image": "flipkartphp",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio/NetCongestionPredictorAI"
-    }
-  },
-
-{
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
     "image": "port",
@@ -61,9 +50,19 @@
     }
   },
   {
+    "name": "Restaurant Automation",
+    "desc": "A small AI model designed to predict network congestion based on simulated traffic data. Using machine learning.",
+    "image": "N8nRestaurant",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/angelbrio",
+      "code": "https://github.com/angelbrio/NetCongestionPredictorAI"
+    }
+  },
+  {
     "name": "Expense Automation",
     "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
-    "image": "port",
+    "image": "N8nExpense",
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
@@ -72,16 +71,6 @@
   },
   {
     "name": "Law Automation",
-    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
-    "image": "port",
-    "category": "lamp",
-    "links": {
-      "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
-    }
-  },
-  {
-    "name": "Restaurant Automation",
     "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
     "image": "port",
     "category": "lamp",

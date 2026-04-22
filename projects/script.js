@@ -29,7 +29,6 @@ document.addEventListener('visibilitychange',
         }
     });
 
-
 // fetch projects start
 function getProjects() {
     return fetch("projects.json")
@@ -38,7 +37,6 @@ function getProjects() {
             return data
         });
 }
-
 
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".work .box-container");
