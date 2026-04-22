@@ -52,7 +52,7 @@
   {
     "name": "Restaurant Automation",
     "desc": "A small AI model designed to predict network congestion based on simulated traffic data. Using machine learning.",
-    "image": "flipkartphp2.png",
+    "image": "flipkartphp2",
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
@@ -62,7 +62,7 @@
   {
     "name": "Expense Automation",
     "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
-    "image": "flipkartphp.png",
+    "image": "flipkartphp",
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
