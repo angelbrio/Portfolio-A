@@ -52,7 +52,37 @@
 
 {
     "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
+    "image": "port",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/angelbrio",
+      "code": "https://github.com/angelbrio"
+    }
+  },
+  {
+    "name": "Expense Automation",
+    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
+    "image": "port",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/angelbrio",
+      "code": "https://github.com/angelbrio"
+    }
+  },
+  {
+    "name": "Law Automation",
+    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
+    "image": "port",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/angelbrio",
+      "code": "https://github.com/angelbrio"
+    }
+  },
+  {
+    "name": "Restaurant Automation",
+    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
     "image": "port",
     "category": "lamp",
     "links": {
