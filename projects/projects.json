@@ -31,7 +31,7 @@
   },
   {
     "name": "Real-Time Service Monitor",
-    "desc": "Real-time Service Quality Monitor is a dashboard that tracks and visualizes key metrics providing real-time insights distributed service performance.",
+    "desc": "Real-time Service Quality Monitor is a dashboard that tracks and visualizes key metrics.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
@@ -45,18 +45,18 @@
     "image": "port",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
+      "view": "https://angelbriones.com",
+      "code": "https://github.com/angelbrio/Portfolio-A.git"
     }
   },
   {
     "name": "Restaurant Automation",
-    "desc": "End-to-end n8n workflow that synchronizes real-time stock levels with supplier databases and automated purchase restaurant orders.",
+    "desc": "End-to-end n8n workflow that synchronizes real-time stock levels.",
     "image": "flipkartphp2",
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio/NetCongestionPredictorAI"
+      "code": "https://github.com/angelbrio/Restaurant-Automation-N8n-.git"
     }
   },
   {
@@ -66,12 +66,12 @@
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
-      "code": "https://github.com/angelbrio"
+      "code": "https://github.com/angelbrio/Expenses-dashboard.git"
     }
   },
   {
     "name": "Law Automation",
-    "desc": "Advanced n8n automation designed to manage legal case files. The workflow automates document routing and notification triggers to ensure seamless communication between lawyers and clients.",
+    "desc": "Advanced n8n automation designed to manage legal case files.",
     "image": "law",
     "category": "lamp",
     "links": {
