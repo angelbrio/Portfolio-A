@@ -41,7 +41,7 @@
   },
   {
     "name": "Portfolio Website",
-    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
+    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here!",
     "image": "port",
     "category": "lamp",
     "links": {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Restaurant Automation",
-    "desc": "A small AI model designed to predict network congestion based on simulated traffic data. Using machine learning.",
+    "desc": "End-to-end n8n workflow that synchronizes real-time stock levels with supplier databases and automated purchase restaurant orders.",
     "image": "flipkartphp2",
     "category": "lamp",
     "links": {
@@ -61,8 +61,8 @@
   },
   {
     "name": "Expense Automation",
-    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
-    "image": "N8nExpense",
+    "desc": "Automated financial pipeline in n8n that captures transaction data and categorizes expenses using custom conditional logic.",
+    "image": "flipkartphp",
     "category": "lamp",
     "links": {
       "view": "https://github.com/angelbrio",
@@ -71,7 +71,7 @@
   },
   {
     "name": "Law Automation",
-    "desc": "Personal Portfolio Website. Don't need much info about it, just scroll down—you're already here! This site is high-performance hosted on Microsoft Azure using Azure Static Web Apps and Azure DNS. Everything is automated via GitHub Actions to ensure a seamless cloud-native experience.",
+    "desc": "Advanced n8n automation designed to manage legal case files. The workflow automates document routing and notification triggers to ensure seamless communication between lawyers and clients.",
     "image": "law",
     "category": "lamp",
     "links": {
