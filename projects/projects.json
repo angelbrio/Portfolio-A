@@ -31,11 +31,11 @@
   },
   {
     "name": "Telegram Bot Automation N8n",
-    "desc": "Telegram Expense Bot: A smart n8n workflow that captures and categorizes personal expenses via chat, syncing data to a cloud database.",
+    "desc": "Click 'View' to watch the demo video or 'Code' to explore the repository!",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://github.com/angelbrio",
+      "view": "https://drive.google.com/file/d/1tYSCE8W0pRcHysXOBSYLJz-utWIPdit7/view?usp=sharing",
       "code": "https://github.com/angelbrio/Automation/tree/main/Telegram%20Automation"
     }
   },
@@ -51,27 +51,27 @@
   },
   {
     "name": "Restaurant Automation",
-    "desc": "End-to-end n8n workflow that synchronizes real-time stock levels.",
+    "desc": "Click 'View' to watch the demo video or 'Code' to explore the repository!",
     "image": "flipkartphp2",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/angelbrio",
+      "view": "https://drive.google.com/file/d/1dYvOiOeVfsKnMuBxkUFMYm4K44CLuXAx/view?usp=sharing",
       "code": "https://github.com/angelbrio/Restaurant-Automation-N8n-.git"
     }
   },
   {
     "name": "Expense Automation",
-    "desc": "Automated financial pipeline in n8n that captures transaction data and categorizes expenses using custom conditional logic.",
+    "desc": "Click 'View' to watch the demo video or 'Code' to explore the repository!",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/angelbrio",
+      "view": "https://drive.google.com/file/d/1BGYKn-H_V03g1AA5YOnZi55mOx5Bsh37/view?usp=sharing",
       "code": "https://github.com/angelbrio/Automation.git"
     }
   },
   {
     "name": "Law Automation",
-    "desc": "Advanced n8n automation designed to manage legal case files.",
+    "desc": "Click 'View' to watch the demo video or 'Code' to explore the repository!",
     "image": "law",
     "category": "lamp",
     "links": {
